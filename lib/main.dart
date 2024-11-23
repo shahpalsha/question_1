@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   // This widget is the root of your application.
+  //quetion 1
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
